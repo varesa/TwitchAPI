@@ -1,4 +1,4 @@
-import TwitchREST
+from TwitchAPI import TwitchREST
 
 
 class Channel:

@@ -1,4 +1,4 @@
-import TwitchREST
+import TwitchAPI.TwitchREST
 
 
 class Stream:
